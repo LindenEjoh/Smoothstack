@@ -1,0 +1,2 @@
+1	Bloomsbury	UK
+2	CharlesScribner	US
